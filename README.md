@@ -21,12 +21,12 @@ Best performing model is Orthogonal Matching Pursuit.
 
 ![image](https://github.com/user-attachments/assets/09ee1980-d9b3-4398-b9fa-43365e2b6c3b)
 
--MAE - 2.0168
--MSE - 5.4339
--RMSE - 2.3273
--R2 - -0.0306
--RMSLE - 0.3700
--MAPE - 0.4501
+- MAE - 2.0168
+- MSE - 5.4339
+- RMSE - 2.3273
+- R2 - -0.0306
+- RMSLE - 0.3700
+- MAPE - 0.4501
 
 
 ### Prediction Error
